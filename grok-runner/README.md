@@ -64,11 +64,12 @@ You can send multiple commands in a row. The runner will process them in the ord
 
 ## License
 
-Private repository.
+MIT (or as specified in original standalone repository)
 
 ---
 
 > **Note:** This project has been moved into the [AI-TOOLS](..) collection repository for better organization.  
 > The canonical location is now: https://github.com/Orffyrus-Qc/AI-TOOLS/tree/main/grok-runner  
 > This standalone repository may be archived.
+
 
