@@ -47,6 +47,7 @@ You can send multiple commands in a row. The runner will process them in the ord
 | File                  | Description                                      |
 |-----------------------|--------------------------------------------------|
 | `grok_runner.py`      | The persistent runner (start this)               |
+| `grok-runner.ico`     | Windows icon for runner shortcuts or packaging   |
 | `.gitignore`          | Ignores runtime queue files and Python artifacts |
 
 ## Requirements
